@@ -39,18 +39,12 @@
     align-items: center;
     justify-content: space-between;
 }
-.hader-top-left{
+.hader-top-left {
     display: flex;    
     align-items: center;
-
 }
-.header-logo{
+.header-logo {
     margin-right: 28px;
-
-}
-.nav-bar{
-    
-    
 }
 .links-list{
     display: flex;
@@ -76,10 +70,6 @@
     color: #fff;
     text-decoration: none;
     font-family: TTNorms;
-
-}
-.header-bottom{
-
 }
 .header-bottom-container{
     display: flex;
@@ -139,19 +129,11 @@
 }
 .main-top{
     margin-top: 8rem;
-
-  
-
-}
-.works{
-    /* align-items: center; */
-
 }
 .works-title{
     text-align: center;
     font-family: TTNorms;
-        color: #6C7890
-
+    color: #6C7890
 }
 .works-text{
     text-align: center;
@@ -196,21 +178,14 @@
     background-color: #2F5BEA;
 
 }
-.person-comments{
-
-}
-.comments-title-txt{
-
-}
-.comments-title{
+.comments-title {
     font-family: "TTNorms Medium";
     color: #fff;
     text-align: center;
     padding-top: 5rem;
     padding-bottom: 1.5rem;
-
 }
-.comments-text{
+.comments-text {
     text-align: center;
     color: #fff;
     font-family: "TTNorms Light";
@@ -248,9 +223,6 @@
 
 
 }
-.person-icon{
-
-}
 hr{
     opacity: 0.3;
 }
@@ -265,9 +237,6 @@ hr{
     padding: 5rem;
     justify-content: center;
     
-}
-.portfolio{
-
 }
 .portfolio-top{
     padding-bottom: 2rem;
@@ -342,11 +311,6 @@ hr{
     height: 50px;
     border-radius: 0.3rem;
 
-}
-
-.footer-bottom{
-    
-    
 }
 input:focus{
     outline: none;
